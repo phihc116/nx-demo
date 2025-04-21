@@ -1,0 +1,9 @@
+{
+  "name": "order-frontend",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "modules/order/frontend/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project order-frontend --web",
+  "targets": {}
+}
