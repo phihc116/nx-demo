@@ -1,1 +1,1 @@
-export * from './lib/order-frontend';
+export * from './orders/OrderPage';
